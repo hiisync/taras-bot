@@ -1,4 +1,4 @@
-🇺🇦 [Читати українською](README)
+🇺🇦 [Читати українською](README.md)
 
 # Telegram Bot for Combating "Surzhyk" (Mixed Language)
 
